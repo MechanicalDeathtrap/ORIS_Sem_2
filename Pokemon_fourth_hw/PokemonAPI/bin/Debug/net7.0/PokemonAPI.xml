@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PokemonAPI</name>
+    </assembly>
+    <members>
+        <member name="T:PokemonAPI.Migrations.Pokemons">
+            <inheritdoc />
+        </member>
+        <member name="M:PokemonAPI.Migrations.Pokemons.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:PokemonAPI.Migrations.Pokemons.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:PokemonAPI.Migrations.Pokemons.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

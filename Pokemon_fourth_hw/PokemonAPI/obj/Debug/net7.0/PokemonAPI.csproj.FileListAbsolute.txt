@@ -1,0 +1,742 @@
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/appsettings.Development.json
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/appsettings.json
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/PokemonAPI
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/PokemonAPI.deps.json
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/PokemonAPI.runtimeconfig.json
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/PokemonAPI.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/PokemonAPI.pdb
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/obj/Debug/net7.0/PokemonAPI.csproj.AssemblyReference.cache
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/obj/Debug/net7.0/PokemonAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/obj/Debug/net7.0/PokemonAPI.AssemblyInfoInputs.cache
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/obj/Debug/net7.0/PokemonAPI.AssemblyInfo.cs
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/obj/Debug/net7.0/PokemonAPI.csproj.CoreCompileInputs.cache
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/obj/Debug/net7.0/PokemonAPI.MvcApplicationPartsAssemblyInfo.cs
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/obj/Debug/net7.0/PokemonAPI.MvcApplicationPartsAssemblyInfo.cache
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/obj/Debug/net7.0/staticwebassets/msbuild.PokemonAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/obj/Debug/net7.0/staticwebassets/msbuild.build.PokemonAPI.props
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.PokemonAPI.props
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.PokemonAPI.props
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/obj/Debug/net7.0/staticwebassets.pack.json
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/obj/Debug/net7.0/staticwebassets.build.json
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/obj/Debug/net7.0/staticwebassets.development.json
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/obj/Debug/net7.0/scopedcss/bundle/PokemonAPI.styles.css
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/obj/Debug/net7.0/PokemonAPI.csproj.CopyComplete
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/obj/Debug/net7.0/PokemonAPI.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/obj/Debug/net7.0/refint/PokemonAPI.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/obj/Debug/net7.0/PokemonAPI.pdb
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/obj/Debug/net7.0/PokemonAPI.genruntimeconfig.cache
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/obj/Debug/net7.0/ref/PokemonAPI.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Humanizer.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.AspNetCore.Razor.Language.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.Build.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.Build.Framework.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.CodeAnalysis.Elfie.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.CodeAnalysis.Features.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.CodeAnalysis.Razor.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.DiaSymReader.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.NET.StringTools.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/dotnet-aspnet-codegenerator-design.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/NuGet.Common.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/NuGet.Configuration.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/NuGet.DependencyResolver.Core.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/NuGet.Frameworks.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/NuGet.LibraryModel.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/NuGet.Packaging.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/NuGet.ProjectModel.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/NuGet.Protocol.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/NuGet.Versioning.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/System.Composition.AttributedModel.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/System.Composition.Convention.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/System.Composition.Hosting.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/System.Composition.Runtime.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/System.Composition.TypedParts.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/System.Drawing.Common.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/System.Reflection.MetadataLoadContext.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/System.Security.Permissions.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/System.Windows.Extensions.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/af/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ar/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/az/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/bg/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/bn-BD/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/cs/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/da/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/de/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/el/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/es/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/fa/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/fi-FI/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/fr/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/fr-BE/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/he/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/hr/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/hu/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/hy/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/id/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/is/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/it/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ja/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ko-KR/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ku/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/lv/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ms-MY/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/mt/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/nb/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/nb-NO/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/nl/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/pl/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/pt/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ro/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ru/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/sk/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/sl/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/sr/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/sr-Latn/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/sv/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/th-TH/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/tr/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/uk/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/uz-Cyrl-UZ/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/uz-Latn-UZ/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/vi/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/zh-CN/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/zh-Hans/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/zh-Hant/Humanizer.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/bin/Debug/net7.0/PokemonAPI.xml
+/home/timur/Git/ORIS_MinullinTimur_11-209_2sem/PokemonAPI/PokemonAPI/obj/Debug/net7.0/PokemonAPI.xml
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\appsettings.json
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\PokemonAPI.exe
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\PokemonAPI.deps.json
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\PokemonAPI.runtimeconfig.json
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\PokemonAPI.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\PokemonAPI.pdb
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\PokemonAPI.xml
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Humanizer.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\NuGet.Common.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net7.0\PokemonAPI.csproj.AssemblyReference.cache
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net7.0\PokemonAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net7.0\PokemonAPI.AssemblyInfoInputs.cache
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net7.0\PokemonAPI.AssemblyInfo.cs
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net7.0\PokemonAPI.csproj.CoreCompileInputs.cache
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net7.0\PokemonAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net7.0\PokemonAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net7.0\staticwebassets\msbuild.PokemonAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.PokemonAPI.props
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PokemonAPI.props
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PokemonAPI.props
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net7.0\scopedcss\bundle\PokemonAPI.styles.css
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net7.0\PokemonAPI.csproj.CopyComplete
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net7.0\PokemonAPI.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net7.0\refint\PokemonAPI.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net7.0\PokemonAPI.xml
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net7.0\PokemonAPI.pdb
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net7.0\PokemonAPI.genruntimeconfig.cache
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net7.0\ref\PokemonAPI.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Azure.Core.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Azure.Identity.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\System.CodeDom.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Загрузки\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\PokemonAPI.exe
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\PokemonAPI.deps.json
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\PokemonAPI.runtimeconfig.json
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\PokemonAPI.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\PokemonAPI.pdb
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\PokemonAPI.xml
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Redis.OM.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\StackExchange.Redis.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\Ulid.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\obj\Debug\net7.0\PokemonAPI.csproj.AssemblyReference.cache
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\obj\Debug\net7.0\PokemonAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\obj\Debug\net7.0\PokemonAPI.AssemblyInfoInputs.cache
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\obj\Debug\net7.0\PokemonAPI.AssemblyInfo.cs
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\obj\Debug\net7.0\PokemonAPI.csproj.CoreCompileInputs.cache
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\obj\Debug\net7.0\PokemonAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\obj\Debug\net7.0\PokemonAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\obj\Debug\net7.0\staticwebassets\msbuild.PokemonAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.PokemonAPI.props
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PokemonAPI.props
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PokemonAPI.props
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\obj\Debug\net7.0\scopedcss\bundle\PokemonAPI.styles.css
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\obj\Debug\net7.0\PokemonAPI.csproj.CopyComplete
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\obj\Debug\net7.0\PokemonAPI.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\obj\Debug\net7.0\refint\PokemonAPI.dll
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\obj\Debug\net7.0\PokemonAPI.xml
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\obj\Debug\net7.0\PokemonAPI.pdb
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\obj\Debug\net7.0\PokemonAPI.genruntimeconfig.cache
+C:\Users\korik\source\repos\ORIS_Sem_2\Pokemon_third_hw — копия\PokemonAPI\obj\Debug\net7.0\ref\PokemonAPI.dll
